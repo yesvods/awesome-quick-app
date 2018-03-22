@@ -37,3 +37,4 @@
 
 * [饿了么快应用初体验](https://juejin.im/post/5ab119ef51882555712c3372)
 * [是前端还是Android？快应用 快速入门与初步分析](https://segmentfault.com/a/1190000013915359)
+* [快应用初体验](https://juejin.im/post/5ab378235188255574599cc4)
