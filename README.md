@@ -6,7 +6,7 @@
 
 ## 微信交流群
 
-* <a href="http://ockcz5ezf.bkt.clouddn.com/20180322152169730630667.jpg" target="_blank">快应用开发交流 1 号群</a>
+* <a href="http://ockcz5ezf.bkt.clouddn.com/20180323152177748163516.jpg" target="_blank">快应用开发交流 1 号群</a>
 
 如群已满 100 人，请加 retiner 邀请。
 
