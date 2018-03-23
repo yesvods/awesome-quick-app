@@ -27,8 +27,8 @@
 
 ## 工具
 
-* [Quix](https://github.com/wuxinzhe/Quix)UI for Quick App
-* [quickapp_gank](https://github.com/ColorfulCat/quickapp_gank)快应用版本的Gank客户端
+* [Quix UI for Quick App](https://github.com/wuxinzhe/Quix)
+* [quickapp_gank 快应用版本的Gank客户端](https://github.com/ColorfulCat/quickapp_gank)
 
 ## 插件
 
