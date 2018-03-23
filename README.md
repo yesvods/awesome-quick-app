@@ -13,6 +13,8 @@
 ## 目录
 
 * [官方文档](#官方文档)
+* [工具](#工具)
+* [插件](#插件)
 * [教程](#教程)
 * [讨论](#讨论)
 * [文章](#文章)
@@ -20,7 +22,17 @@
 ## 官方文档
 
 * [快应用文档中心](https://www.quickapp.cn/docCenter)
-* [快应用官方站点](https://www.quickapp.cn/)
+* [快应用官方网站](https://www.quickapp.cn/)
+* [快应用官方论坛](http://bbs.quickapp.cn/)
+
+## 工具
+
+* [Quix](https://github.com/wuxinzhe/Quix)UI for Quick App
+* [quickapp_gank](https://github.com/ColorfulCat/quickapp_gank)快应用版本的Gank客户端
+
+## 插件
+
+* [Vscode Hap Extension](https://marketplace.visualstudio.com/items?itemName=yupeng528.hap)轻应用语法高亮插件
 
 ## 教程
 
