@@ -18,7 +18,7 @@
 * [插件](#插件)
 * [教程](#教程)
 * [讨论](#讨论)
-* [文章](#文章)
+* [分享](#分享)
 
 ## 官方文档
 
@@ -39,12 +39,15 @@
 ## 插件
 
 * [Vscode Hap Extension](https://marketplace.visualstudio.com/items?itemName=yupeng528.hap)轻应用语法高亮插件
+* [Vscode 一个基于vscode应用于‘快应用’语法高亮](https://github.com/hatedMe/QuickApp-For-Highlighter)
 
 ## 教程
 
-* [对标小程序 ? "快应用"开发入门指南](https://juejin.im/post/5ab26a1e6fb9a028b547c675)
-* [快应用快速入门教程](https://juejin.im/post/5ab27d8e518825557e78485e)
+* [对标小程序 ? "快应用"开发入门指南 By鸿洋](https://juejin.im/post/5ab26a1e6fb9a028b547c675)
+* [快应用快速入门教程 by大大花猫](https://juejin.im/post/5ab27d8e518825557e78485e)
 * [快应用 QuickApp--入门指北](https://zhuanlan.zhihu.com/p/34774751)
+* [快应用简明使用指引](https://github.com/williamfzc/QuickAppLearner)
+* [快应用QuickApp--HelloWorld体验](https://www.cnblogs.com/simleSmith/p/8618256.html)
 
 ## 讨论
 
@@ -52,7 +55,7 @@
 * [如何看待国内几家硬件厂商联合鼎力打造的快应用?(知乎)](https://www.zhihu.com/question/268675437/answer/343249351)
 * [九大厂商联合推出「快应用」，围攻微信？](https://zhuanlan.zhihu.com/p/34796337)
 
-## 文章
+## 分享
 
 * [饿了么快应用初体验](https://juejin.im/post/5ab119ef51882555712c3372)
 * [是前端还是Android？快应用 快速入门与初步分析](https://segmentfault.com/a/1190000013915359)
