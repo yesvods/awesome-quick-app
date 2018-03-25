@@ -32,7 +32,7 @@
 
 ## 示例
 
-* [quickapp_gank 快应用版本的Gank客户端](https://github.com/ColorfulCat/quickapp_gank)
+* [Gank客户端](https://github.com/ColorfulCat/quickapp_gank)
 * [内涵车站APP](https://github.com/Licoy/quickapp-neihanchezhan)
 * [wanandroid快应用](https://github.com/CB-ysx/wanandroid-quickapp)
 
