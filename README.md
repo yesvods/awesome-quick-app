@@ -44,7 +44,7 @@
 
 * [Quix UI for Quick App](https://github.com/wuxinzhe/Quix)
 * [基于weui开发的quickapp](https://github.com/xiaomak/quickapp-weui)
-* [快应用转换工具 - 小程序转快应用(http://quickapp.dcloud.io/#wxconvert)
+* [快应用转换工具 - 小程序转快应用](http://quickapp.dcloud.io/#wxconvert)
 
 ## 示例
 
@@ -52,6 +52,7 @@
 * [内涵车站APP](https://github.com/Licoy/quickapp-neihanchezhan)
 * [wanandroid快应用](https://github.com/CB-ysx/wanandroid-quickapp)
 * [quickapp-douban](https://github.com/hjl19911127/quickapp-douban)
+* [快应用版Wechat](https://github.com/yale8848/quickapp-wechat)
 
 ## 插件
 
@@ -78,6 +79,10 @@
 * [是前端还是Android？快应用 快速入门与初步分析](https://segmentfault.com/a/1190000013915359)
 * [快应用初体验](https://juejin.im/post/5ab378235188255574599cc4)
 * [[前端工坊]快应用-技术调研](https://mp.weixin.qq.com/s/44SX9k1tbAtqhaxP-OwosQ)
+
+## 视频
+
+* <a href="http://ockcz5ezf.bkt.clouddn.com/20180323152177748163516.jpg" target="_blank">快应用 —— 复杂生活的简单答案</a>
 
 ## 书籍
 
