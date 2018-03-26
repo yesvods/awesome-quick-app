@@ -73,6 +73,7 @@
 * [「快应用」项目？会对微信小程序以及 App 生态有何影响？(知乎)](https://www.zhihu.com/question/268663484/answer/343010272)
 * [如何看待国内几家硬件厂商联合鼎力打造的快应用?(知乎)](https://www.zhihu.com/question/268675437/answer/343249351)
 * [九大厂商联合推出「快应用」，围攻微信？(知乎)](https://zhuanlan.zhihu.com/p/34796337)
+* [腾讯“小程序”与手机“快应用”之战(知乎)](https://zhuanlan.zhihu.com/p/34877700)
 
 ## 分享
 
