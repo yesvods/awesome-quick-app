@@ -42,9 +42,10 @@
 
 ## 工具
 
-* [Quix UI for Quick App](https://github.com/wuxinzhe/Quix)
+* [Quix - UI for Quick App](https://github.com/wuxinzhe/Quix)
 * [基于weui开发的quickapp](https://github.com/xiaomak/quickapp-weui)
 * [快应用转换工具 - 小程序转快应用](http://quickapp.dcloud.io/#wxconvert)
+* [flyio - 支持快应用的http网络库](https://segmentfault.com/a/1190000013984402?utm_source=tag-newest)
 
 ## 示例
 
