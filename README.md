@@ -59,6 +59,7 @@
 
 * [Vscode Hap Extension](https://marketplace.visualstudio.com/items?itemName=yupeng528.hap)轻应用语法高亮插件
 * [Vscode 一个基于vscode应用于‘快应用’语法高亮](https://github.com/hatedMe/QuickApp-For-Highlighter)
+* [Vscode Quick App美化代码](https://github.com/hatedMe/beautify-quick-app)
 
 ## 教程
 
