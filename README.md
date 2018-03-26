@@ -58,6 +58,7 @@
 * [快应用 QuickApp--入门指北](https://zhuanlan.zhihu.com/p/34774751)
 * [快应用简明使用指引](https://github.com/williamfzc/QuickAppLearner)
 * [快应用QuickApp--HelloWorld体验](https://www.cnblogs.com/simleSmith/p/8618256.html)
+* [教你尝鲜「快应用」！体验秒开，如丝般顺滑！](https://mp.weixin.qq.com/s/7zPwdXRAl7SIoFw4eKhXyA)
 
 ## 讨论
 
