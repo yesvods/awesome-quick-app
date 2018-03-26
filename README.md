@@ -19,22 +19,32 @@
 * [教程](#教程)
 * [讨论](#讨论)
 * [分享](#分享)
+* [书籍](#书籍)
+* [职位](#职位)
 
 ## 官方文档
 
-* [快应用文档中心](https://www.quickapp.cn/docCenter)
-* [快应用官方网站](https://www.quickapp.cn/)
-* [快应用官方论坛](http://bbs.quickapp.cn/)
+* [入门教程](https://doc.quickapp.cn/)
+* [接口文档](https://doc.quickapp.cn/features/)
+* [框架文档](https://doc.quickapp.cn/framework/)
+* [官方网站](https://www.quickapp.cn/)
+* [官方论坛](http://bbs.quickapp.cn/)
+* [toolkit](https://doc.quickapp.cn/tools/toolkit-tools.html)
+* [编译工具](https://doc.quickapp.cn/tools/compiling-tools.html)
+* [调试工具](https://doc.quickapp.cn/tools/debugging-tools.html)
 
 ## 工具
 
 * [Quix UI for Quick App](https://github.com/wuxinzhe/Quix)
+* [基于weui开发的quickapp](https://github.com/xiaomak/quickapp-weui)
+* [快应用转换工具 - 小程序转快应用(http://quickapp.dcloud.io/#wxconvert)
 
 ## 示例
 
 * [Gank客户端](https://github.com/ColorfulCat/quickapp_gank)
 * [内涵车站APP](https://github.com/Licoy/quickapp-neihanchezhan)
 * [wanandroid快应用](https://github.com/CB-ysx/wanandroid-quickapp)
+* [quickapp-douban](https://github.com/hjl19911127/quickapp-douban)
 
 ## 插件
 
@@ -53,10 +63,19 @@
 
 * [「快应用」项目？会对微信小程序以及 App 生态有何影响？(知乎)](https://www.zhihu.com/question/268663484/answer/343010272)
 * [如何看待国内几家硬件厂商联合鼎力打造的快应用?(知乎)](https://www.zhihu.com/question/268675437/answer/343249351)
-* [九大厂商联合推出「快应用」，围攻微信？](https://zhuanlan.zhihu.com/p/34796337)
+* [九大厂商联合推出「快应用」，围攻微信？(知乎)](https://zhuanlan.zhihu.com/p/34796337)
+* [快应用+小程序，99%的Android程序员即将失业！](http://bbs.quickapp.cn/posts/detail?id=446)
 
 ## 分享
 
 * [饿了么快应用初体验](https://juejin.im/post/5ab119ef51882555712c3372)
 * [是前端还是Android？快应用 快速入门与初步分析](https://segmentfault.com/a/1190000013915359)
 * [快应用初体验](https://juejin.im/post/5ab378235188255574599cc4)
+
+## 书籍
+
+火热更新ing
+
+## 职位
+
+火热更新ing
