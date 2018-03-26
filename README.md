@@ -12,6 +12,7 @@
 
 ## 目录
 
+* [官方资讯](#官方资讯)
 * [官方文档](#官方文档)
 * [工具](#工具)
 * [示例](#示例)
@@ -21,6 +22,12 @@
 * [分享](#分享)
 * [书籍](#书籍)
 * [职位](#职位)
+
+## 官方资讯
+
+* [十大手机厂商共推快应用标准，发布会完美落幕](http://bbs.quickapp.cn/posts/detail?id=308)
+* [教你尝鲜「快应用」！体验秒开，如丝般顺滑！](https://mp.weixin.qq.com/s/7zPwdXRAl7SIoFw4eKhXyA)
+* [快应用+小程序，99%的Android程序员即将失业！](http://bbs.quickapp.cn/posts/detail?id=446)
 
 ## 官方文档
 
@@ -58,14 +65,12 @@
 * [快应用 QuickApp--入门指北](https://zhuanlan.zhihu.com/p/34774751)
 * [快应用简明使用指引](https://github.com/williamfzc/QuickAppLearner)
 * [快应用QuickApp--HelloWorld体验](https://www.cnblogs.com/simleSmith/p/8618256.html)
-* [教你尝鲜「快应用」！体验秒开，如丝般顺滑！](https://mp.weixin.qq.com/s/7zPwdXRAl7SIoFw4eKhXyA)
 
 ## 讨论
 
 * [「快应用」项目？会对微信小程序以及 App 生态有何影响？(知乎)](https://www.zhihu.com/question/268663484/answer/343010272)
 * [如何看待国内几家硬件厂商联合鼎力打造的快应用?(知乎)](https://www.zhihu.com/question/268675437/answer/343249351)
 * [九大厂商联合推出「快应用」，围攻微信？(知乎)](https://zhuanlan.zhihu.com/p/34796337)
-* [快应用+小程序，99%的Android程序员即将失业！](http://bbs.quickapp.cn/posts/detail?id=446)
 
 ## 分享
 
