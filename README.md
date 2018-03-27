@@ -70,6 +70,7 @@
 * [快应用 QuickApp--入门指北](https://zhuanlan.zhihu.com/p/34774751)
 * [快应用简明使用指引](https://github.com/williamfzc/QuickAppLearner)
 * [快应用QuickApp--HelloWorld体验](https://www.cnblogs.com/simleSmith/p/8618256.html)
+* [快应用快速入门教程 by五个半柠檬(SF)](https://segmentfault.com/a/1190000014012762?utm_source=tag-newest)
 
 ## 讨论
 
