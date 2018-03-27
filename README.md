@@ -85,6 +85,8 @@
 * [是前端还是Android？快应用 快速入门与初步分析](https://segmentfault.com/a/1190000013915359)
 * [快应用初体验](https://juejin.im/post/5ab378235188255574599cc4)
 * [[前端工坊]快应用-技术调研](https://mp.weixin.qq.com/s/44SX9k1tbAtqhaxP-OwosQ)
+* [快应用发起进攻第一枪！小米直达服务正式更名快应用](https://zhuanlan.zhihu.com/p/34985022)
+* [手机厂商和开发者为何看好快应用新生态](https://zhuanlan.zhihu.com/p/34984080)
 
 ## 视频
 
